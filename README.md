@@ -19,9 +19,7 @@ I'm an entrepreneur/software enginer from Caracas, Venezuela. I graduated from G
 
 👨‍💼 Professional profile in [LinkedIn](https://www.linkedin.com/in/johnnie-tirado-a404a045/)
 
-🔭 I'm currently working on building [Parkner](https://parkner.pe) - The AirBnB for parking in LATAM.
-
-✍ I also write about tecnology and business in my personal blog [Codealo](https://codealo.dev)
+✍ Follow my teaching about programming in [Codealo](https://codealo.dev)
 
 📷 Posting helpful programming tips in my [Instagram](https://instagram.com/codealo)
 
